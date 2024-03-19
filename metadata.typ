@@ -1,15 +1,15 @@
 // NOTICE: Copy this file to your root folder.
 
 /* Personal Information */
-#let firstName = "John"
+#let firstName = "Matthew (Mat)"
 
-#let lastName = "Doe"
+#let lastName = "Roscoe"
 
 #let personalInfo = (
-  github: "mintyfrankie",
-  phone: "+33 6 12 34 56 78",
-  email: "john.doe@me.org",
-  linkedin: "johndoe",
+  github: "badrobit",
+  phone: "+1.321.355.1093",
+  email: "mat.roscoe@gmail.com",
+  linkedin: "matthewroscoe",
   //custom-1: (icon: "", text: "example", link: "https://example.com"),
   //gitlab: "mintyfrankie",
   //homepage: "jd.me.org",
@@ -22,10 +22,8 @@
 /* Language-specific */
 // Add your own languages while the keys must match the varLanguage variable
 #let headerQuoteInternational = (
-  "": [Experienced Data Analyst looking for a full time job starting from now],
-  "en": [Experienced Data Analyst looking for a full time job starting from now],
-  "fr": [Analyste de données expérimenté à la recherche d'un emploi à temps plein disponible dès maintenant],
-  "zh": [具有丰富经验的数据分析师，随时可入职]
+  "": [Staff Simulation Engineer  with Modern Distributed Python expertise],
+  "en": [Staff Simulation Engineer  with Modern Distributed Python expertise],
 )
 
 #let cvFooterInternational = (
@@ -50,7 +48,7 @@
 )
 
 /* Layout Setting */
-#let awesomeColor = "skyblue" // Optional: skyblue, red, nephritis, concrete, darknight
+#let awesomeColor = "concrete" // Optional: skyblue, red, nephritis, concrete, darknight
 
 #let profilePhoto = "../src/avatar.png" // Leave blank if profil photo is not needed
 
